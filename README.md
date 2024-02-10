@@ -29,11 +29,13 @@
   - Word Processor (2020. 08) (The Korea Chamber of Commerce&Industry) (ID 20-I9-013005) <br>
   - ITQ OA Master (2016. 02) (Hanguel, Excel, PowerPoint Level A) (ITQ-OAM-M201-60000662)
 
+# <i>PS&CP Handles</i>
 
 
-## Coding Instructor at Mirae-I Coding (Apr 2022 ~ )
-👨‍🏫 <b>Coding Instructor at Munchon campus(Goyang, Gyeonggi, South Korea), Mirae-I Coding</b>
+----
 
+
+----will be deleted---
 <div align="center", class="contest">
 
 | No.(Mirae-I Class) | Date | Class Name | Weeks | Status |
@@ -88,38 +90,6 @@
 ##### ✔️ week 10 - Final Project Preparation 1/2
 ##### ✔️ week 11 - Final Project Preparation 2/2
 ##### ⭐️ week 12 - Final Project Presentation
-
-#
-
-### ⭐️ Roblox I
-##### 🌳 week 1 - Introduction, Setup, User Interface, Getting Used to Roblox Game Creator ⭐️
-##### 🌳 week 2 - WalkSpeed UP! ⭐️⭐️
-##### 🌳 week 3 - JumpPower UP! ⭐️⭐️
-##### 🌳 week 4 - Teleport ⭐️⭐️
-##### 🌳 week 5 -  ⭐️⭐️
-##### 🌳 week 6 -  ⭐️⭐️
-##### 🌳 week 7 -  ⭐️⭐️
-##### 🌳 week 8 -  ⭐️⭐️⭐️
-##### 🌳 week 9 -  ⭐️⭐️
-##### 🌳 week 10 - Term Project Preparation
-##### 🌳 week 11 - Term Project Preparation
-##### ⭐️ week 12 - Term Project Presentation
-
-#
-
-### ⭐️ Roblox II
-##### 🌳 week 1 - Healing Water ⭐️⭐️⭐️
-##### 🌳 week 2 - Animation ⭐️⭐️⭐️
-##### 🌳 week 3 - Magic Staircase 1/2 ⭐️⭐️⭐️
-##### 🌳 week 4 - Magic Staircase 2/2 ⭐️⭐️⭐️
-##### 🌳 week 5 - NPC 1/2 ⭐️⭐️⭐️
-##### 🌳 week 6 - NPC 2/2 ⭐️⭐️⭐️
-##### 🌳 week 7 - Item 1/2 ⭐️⭐️⭐️⭐️
-##### 🌳 week 8 - Item 2/2 ⭐️⭐️⭐️⭐️
-##### 🌳 week 9 - Final Review 
-##### 🌳 week 10 - Final Project Preparation 
-##### 🌳 week 11 - Final Project Preparation
-##### ⭐️ week 12 - Final Project Presentation 
 
 #
 
