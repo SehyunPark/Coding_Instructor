@@ -8,7 +8,7 @@
 - Coding Instructor (2022.04 - Present)
   - Taught 80+ classes(including 1:1 coding lessons) in total and over 100+ elementary, middle, high school, and university students
   - Also tutored remote coding classes in English for university students in the UK and Singapore
-  - Wrote class handouts, quizzes and assignments written in English, supplementary exercises, and a syllabus for every class (you can check the folders above)
+  - Wrote class handouts, quizzes and assignments written in English, supplementary exercises, and a syllabus for every class (class materials are in private folder)
   - Managed students by maintaining regular communication with students and their parents to provide updates and discuss concerns
   - Managed individualized Google Classroom sessions tailored to students’ skill levels
     
