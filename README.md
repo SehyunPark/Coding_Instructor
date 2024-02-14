@@ -75,6 +75,8 @@
 
 </div>
 
+
+
 ## Class curriculum
 
 ### ⭐️ MetaSkills
@@ -90,22 +92,6 @@
 ##### ✔️ week 10 - Final Project Preparation 1/2
 ##### ✔️ week 11 - Final Project Preparation 2/2
 ##### ⭐️ week 12 - Final Project Presentation
-
-#
-
-### ⭐️ Python Advanced(E)I (using PySimpleGUI)
-##### ✍️ week 1 - Unit Conversion Calculator 1/4
-##### ✍️ week 2 - Unit Conversion Calculator 2/4
-##### ✍️ week 3 - Unit Conversion Calculator 3/4
-##### ✍️ week 4 - Unit Conversion Calculator 4/4
-##### ✍️ week 5 - Text Editor 1/4
-##### ✍️ week 6 - Text Editor 2/4
-##### ✍️ week 7 - Text Editor 3/4
-##### ✍️ week 8 - Text Editor 4/4
-##### ✍️ week 9 - Term Project Preparation 1/3
-##### ✍️ week 10 - Term Project Preparation 2/3
-##### ✍️ week 11 - Term Project Preparation 3/3
-##### ⭐️ week 12 - Term Project Presentation
 
 #
 
