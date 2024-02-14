@@ -23,7 +23,7 @@
 | Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x |
 | Wk10 | For 2/2 | list for loop / for loop exercises including coding contest problems | ⭐⭐⭐ | ✅ |
 | Wk11 | Input() | input() function + types of input() / library using randint() function / exercises including coding contest champion problems | ⭐⭐⭐ | ✅ |
-| Wk12~13 | 50 exercises I | coding exercises | ⭐⭐⭐ | x | |
+| Wk12~13 | 50 exercises I | coding exercises | ⭐⭐⭐ | 50 exercises | x |
 | Wk14 | Functions(Hard) | | ⭐⭐⭐⭐ | |
 | Wk15 | If(Hard) | | ⭐⭐⭐⭐ | | 
 </div>
