@@ -30,7 +30,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | Python Applications |  | TBD | ⭐⭐⭐⭐ |
 | Python Basics | • Python Fundamentals (3 Weeks) <br> • if <br> • for + list <br> • while + dictionary + tuple <br> • function <br> • 100 exercises I (3 weeks)<br> • 2D Array | TBD | ⭐⭐⭐ |
-| Python(E) Basics | • Input/Output/Variable <br> • String <br> • Math <br> • Python Data (2 Weeks) <br> • if <br> • list <br> • review + Test I(A,B) <br> • for (2 Weeks) <br> • input() <br> • 50 exercises I (2 weeks) <br> • functions(Hard) <br> • if(Hard) <br> • Tuple/Set  | TBD | ⭐⭐ |
+| Python(E) Basics | • Input/Output/Variable <br> • String <br> • Math <br> • Python Data (2 Weeks) <br> • if <br> • list <br> • review + Test I(A,B) <br> • for (2 Weeks) <br> • input() <br> • 50 exercises I (2 weeks) <br> • functions(Hard) <br> • if(Hard) <br> • Tuple <br> • Set <br> • Dictionary (2 weeks)  | TBD | ⭐⭐ |
 
 </div>
 
