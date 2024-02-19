@@ -25,7 +25,7 @@
 | Wk11 | Input() | input() function + types of input() / library using randint() function / exercises including coding contest champion problems | ⭐⭐⭐ | ✅ |
 | Wk12~13 | 50 exercises I | coding exercises | ⭐⭐⭐ | 50 exercises | x |
 | Wk14 | Functions(Hard) | upper(), lower(), isupper(), islower(), isalpha(), isdigit(), find(), rfind() <br> list insert(), remove(), del | ⭐⭐⭐⭐ | ✅ | 
-| Wk15 | If(Hard) | nested-if <br> and,or | ⭐⭐⭐⭐ | | 
+| Wk15 | If(Hard) | nested-if <br> and,or | ⭐⭐⭐⭐ | ✅ | 
 | Wk16 | Tuple / Set | | ⭐⭐⭐ | |
 </div>
 
@@ -52,7 +52,7 @@
 | Wk5 | for + list | list / append(), insert(), extend() + more list functions <br> reading documentations practice II <br> for / for - range() | ⭐⭐⭐ | ✅ |
 | Wk6 | while + dictionary + tuple | nested for loop <br> dictionary / dictionary operations <br> tuple <br> while loop - break, continue <br> for - enumerate | ⭐⭐⭐ | ✅ |
 | Wk7 | function | function definition / 2 types of function <br> function components <br> making functions practice | ⭐⭐⭐ | ✅ |
-| Wk8~9 | 100 exercises I | coding exercises | ⭐⭐⭐ | 100 exercises | x |
+| Wk8~9 | 100 exercises I | coding exercises | ⭐⭐⭐ | 100 exercises | x | 
 | Wk10 | | | | |
 
 </div>
