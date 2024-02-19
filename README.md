@@ -88,9 +88,7 @@
 ##### ✔️ week 6 - Review (Typing Practice)
 ##### ✔️ week 7 - Google Docs (Typing Practice) ⭐️⭐️⭐️
 ##### ✔️ week 8 - Google Slides 1/2 ⭐️⭐️⭐️⭐️
-##### ✔️ week 9 - Google Slides 2/2 ⭐️⭐️⭐️⭐️
 ##### ✔️ week 10 - Final Project Preparation 1/2
-##### ✔️ week 11 - Final Project Preparation 2/2
 ##### ⭐️ week 12 - Final Project Presentation
 
 #
@@ -113,7 +111,7 @@
 ##### ✍️ week 3 - Pandas - Series ⭐️⭐️
 ##### ✍️ week 4~6 - Pandas - DataFrame (Quiz) ⭐️⭐️
 ##### ✍️ week 7~9 - Data Visualization (Quiz) ⭐️⭐️⭐️
-##### ✍️ week 10 - Data Science Methodology ⭐️⭐️ / Term Project Preparation 1/2
+##### ✍️ week 10 - Data Science Methodology ⭐️⭐️
 ##### ✍️ week 11 - Term Project Preparation 2/2
 ##### ⭐️ week 12 - Term Project Presentation
 
@@ -122,30 +120,16 @@
 ### ⭐️ Python DA(Data Analysis) II
 ##### ✍️ week 1 - Correlation (Quiz) ⭐️⭐️⭐️
 ##### ✍️ week 2 - Linear Regression 1/2 (Quiz) ⭐️⭐️⭐️⭐️
-##### ✍️ week 3 - Linear Regression 2/2 (Quiz) ⭐️⭐️⭐️⭐️
 ##### ✍️ week 4 - Random Forest 1/4 (Quiz) ⭐️⭐️⭐️⭐️
-##### ✍️ week 5 - Random Forest 2/4 (Quiz) ⭐️⭐️⭐️⭐️⭐️
-##### ✍️ week 6 - Random Forest 3/4 (Quiz) ⭐️⭐️⭐️⭐️⭐️
-##### ✍️ week 7 - Random Forest 4/4 (Quiz) ⭐️⭐️⭐️⭐️⭐️
 ##### ✍️ week 8 - Final Test
 ##### ✍️ week 9 - Final Project Preparation 1/3
-##### ✍️ week 10 - Final Project Preparation 2/3
-##### ✍️ week 11 - Final Project Preparation 3/3
 ##### ⭐️ week 12 - Final Project Presentation
 
 #
 
 ### ⭐️ Python Artificial Intelligence(AI)
-##### 🚗 week 1 -  ⭐️⭐️⭐️⭐️⭐️
-##### 🚗 week 2 -  ⭐️⭐️⭐️⭐️⭐️
-##### 🚗 week 3 -  ⭐️⭐️⭐️⭐️⭐️
-##### 🚗 week 4 -  ⭐️⭐️⭐️⭐️⭐️
-##### 🚗 week 5 -  ⭐️⭐️⭐️⭐️⭐️
 ##### 🚗 week 6 - AI Detection Project Preparation 1/2
-##### 🚗 week 7 - AI Detection Project Preparation 2/2
 ##### 🚗 week 8 - (*Advanced) Tensorflow Image Classifier 1/3 (Quiz) 🌟🌟🌟🌟🌟🌟
-##### 🚗 week 9 - (*Advanced) Tensorflow Image Classifier 2/3 (Quiz) 🌟🌟🌟🌟🌟🌟
-##### 🚗 week 10 - (*Advanced) Tensorflow Image Classifier 3/3 (Quiz) 🌟🌟🌟🌟🌟🌟
 ##### 🚗 week 11 - AI Final Report Preparation
 ##### ⭐️ week 12 - Final Presentation
 
@@ -154,21 +138,15 @@
 ### ⭐️ C# Basics I
 ##### 🧏‍♂️ week 1 - C# INTRO ⭐️
 ##### 🧏‍♂️ week 2 - C# Fundamentals 1/3 ⭐️
-##### 🧏‍♂️ week 3 - C# Fundamentals 2/3 ⭐️⭐️
-##### 🧏‍♂️ week 4 - C# Fundamentals 3/3 ⭐️⭐️
 ##### 🧏‍♂️ week 5 - Class & Method 1/2 ⭐️⭐️⭐️
-##### 🧏‍♂️ week 6 - Class & Method 2/2 ⭐️⭐️⭐️
 
 ##### 🧏‍♂️ week 7 - Review
 ##### 🧏‍♂️ week 8 - Polymorphism & Inheritance 1/2 ⭐️⭐️⭐️
-##### 🧏‍♂️ week 9 - Polymorphism & Inhertiance 2/2 ⭐️⭐️⭐️
 ##### 🧏‍♂️ week 10 - 2D Arrays ⭐️⭐️
 ##### 🧏‍♂️ week 11 - Structure Type ⭐️⭐️
 ##### 🧏‍♂️ week 12 - Final Review + Test
 
 ##### 🧏‍♂️ week 13 - Project Preparation 1/3
-##### 🧏‍♂️ week 14 - Project Preparation 2/3
-##### 🧏‍♂️ week 15 - Project Preparation 3/3
 ##### 🧏‍♂️ week 16 - C# Project Presentation
 
 #
