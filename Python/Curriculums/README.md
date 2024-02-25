@@ -30,6 +30,8 @@
 | Wk17 | Set | 2 attributes of set() <br> add(), update(), remove() <br> intersection(), union(), difference() | ⭐⭐⭐⭐ |  |
 | Wk18 | Dictionary 1/2 | | ⭐⭐⭐ | |
 | Wk19 | Dictionary 2/2 | | ⭐⭐⭐ | |
+| Wk20 | While 1/2 | | ⭐⭐⭐ | |
+| Wk21 | While 2/2 | | ⭐⭐⭐ | |
 </div>
 
   
