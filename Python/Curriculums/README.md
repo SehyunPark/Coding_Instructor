@@ -58,7 +58,7 @@
 | Wk6 | while + dictionary + tuple | nested for loop <br> dictionary / dictionary operations <br> tuple <br> while loop - break, continue <br> for - enumerate | ⭐⭐⭐ | ✅ |
 | Wk7 | function | function definition / 2 types of function <br> function components <br> making functions practice | ⭐⭐⭐ | ✅ |
 | Wk8~10 | 100 exercises I | coding exercises | ⭐⭐⭐ | 100 exercises | x | 
-| Wk11 | Try-Except Block & Top Errors |  | ⭐⭐⭐⭐ | |
+| Wk11 | Try-Except Block & Top Errors | Syntax Error & RE Top 9 Errors <br> try-except(+pass/Exception) <br> try-except-else-finally <br> raise Exception | ⭐⭐⭐⭐ | Quiz 1/2 ✅ <br> Quiz 2/2 ✅ | |
 | Wk12 | Two Dimensional Array | | ⭐⭐⭐⭐ | |
 
 </div>
