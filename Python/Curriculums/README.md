@@ -26,8 +26,8 @@
 | Wk12~13 | 50 exercises I | coding exercises | ⭐⭐⭐ | 50 exercises | x |
 | Wk14 | Functions(Hard) | upper(), lower(), isupper(), islower(), isalpha(), isdigit(), find(), rfind() <br> list insert(), remove(), del | ⭐⭐⭐⭐ | ✅ | 
 | Wk15 | If(Hard) | nested-if <br> and,or | ⭐⭐⭐⭐ | ✅ | 
-| Wk16 | Tuple | intro<br>indexing / slicing / 'double' indexing&slicing<br> tuple +, * | ⭐⭐ | |
-| Wk17 | Set | | ⭐⭐⭐ | |
+| Wk16 | Tuple | intro<br>indexing / slicing / 'double' indexing&slicing<br> tuple +, * | ⭐⭐ | ✅ |
+| Wk17 | Set | 2 attributes of set() <br> add(), update(), remove() <br> intersection(), union(), difference() | ⭐⭐⭐⭐ |  |
 | Wk18 | Dictionary 1/2 | | ⭐⭐⭐ | |
 | Wk19 | Dictionary 2/2 | | ⭐⭐⭐ | |
 </div>
