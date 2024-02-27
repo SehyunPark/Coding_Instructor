@@ -15,7 +15,7 @@
 | Wk1 | Input/Output/Variable | introduction <br> input/output/variable/variable <br> print() practice | ⭐ | ✅ | ✅ <br> 7 Coding Problems |
 | Wk2 | String |type()/len()/string <br> intro to function | ⭐ | ✅ | ✅ <br> 5 Coding Problems |
 | Wk3 | Math | math operators(+,-,*,/,//,%) <br> assignment operators | ⭐⭐ | ✅ | ✅ <br> 7 Coding Problems |
-| Wk4 | Python Data 1/2 | 4 data types intro <br> type conversions <br> string operators | ⭐⭐ | x |
+| Wk4 | Python Data 1/2 | 4 data types intro <br> type conversions <br> string operators | ⭐⭐ | x | ✅ <br> 7 Coding Problems |
 | Wk5 | Python Data 2/2 | inequalities / bool data type <br> operations practice | ⭐⭐ | ✅ |
 | Wk6 | If | if-else / if-elif-else | ⭐⭐ | ✅ |
 | Wk7 | List | list naming & indexing / slicing <br> append(), extend() | ⭐⭐ | ✅ |
