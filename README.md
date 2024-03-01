@@ -19,17 +19,17 @@
 
 - Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&style=for-the-badge">
-
-<img src="https://img.shields.io/badge/C-ABB9CC?style=for-the-badge&logo=C&logoColor=white&style=flat-square">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&style=flat-square">
 
+<img src="https://img.shields.io/badge/C-ABB9CC?style=for-the-badge&logo=C&logoColor=white&style=flat-square">
+
 - Tools
 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white&style=for-the-badge">
-
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white&style=flat-square">
+
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white&style=for-the-badge">
 
 
 
