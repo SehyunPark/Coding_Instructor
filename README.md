@@ -16,11 +16,11 @@ With over 2 years of teaching experience and having taught over 100 students in 
 
 For over 3+ years, I've been running a Tech Blog where I've documented various coding-related knowledge. <b>Click this [▶️](https://sh-avid-learner.tistory.com/) button to view the blog.</b>
 <div align="center">
-<img width="446" alt="1" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/81101f76-a6a7-4f2e-9eda-8d5863ed7876">
-<img width="446" alt="2" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/13c233a6-08fd-4c7e-b4d4-ee9261c9e2e7">
+<img width="200" height = "200" alt="1" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/81101f76-a6a7-4f2e-9eda-8d5863ed7876">
+<img width="200" height = "200" alt="2" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/13c233a6-08fd-4c7e-b4d4-ee9261c9e2e7">
 <p>
-<img width="446" alt="3" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/da5d5196-4bdc-46b6-9991-76be5f7ff1ad">
-<img width="446" alt="4" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/d5b5e085-1e2a-406a-a49e-e93beeba2995">
+<img width="200" height = "200" alt="3" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/da5d5196-4bdc-46b6-9991-76be5f7ff1ad">
+<img width="200" height = "200" alt="4" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/d5b5e085-1e2a-406a-a49e-e93beeba2995">
 </p>
 
 #
