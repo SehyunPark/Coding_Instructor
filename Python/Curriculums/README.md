@@ -1,5 +1,35 @@
 <i>
 
+## Python_Basics Curriculums(in-depth)
+
+<details>
+
+<summary>see the curriculum</summary>
+
+<br>
+
+  <div align="center", class="python">
+
+| No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Wk1 | Python Fundamentals 1/3 | introduction <br> data types <br> variable / print() / string manipulation(indexing + slicing) | ⭐ | ✅ |✅ <br> 7 Coding Problems |
+| Wk2 | Python Fundamentals 2/3 | operators / assignment operators / operator priority / operations <br> type(), abs(), input(), type conversions | ⭐⭐ | ✅ | ✅ <br> 6 Coding Problems |
+| Wk3 | Python Fundamentals 3/3 | f-string / split() / zfill() + more string functions <br> reading documentations practice I <br> bool data type / inequalities | ⭐⭐ | ✅ | ✅ <br> 4 Coding Problems |
+| Wk4 | if | if-else / if-elif-else <br> nested if / and & or / pass <br> if statement in one line | ⭐⭐ | ✅ |
+| Wk5 | for + list | list / append(), insert(), extend() + more list functions <br> reading documentations practice II <br> for / for - range() | ⭐⭐⭐ | ✅ |
+| Wk6 | while + dictionary + tuple | nested for loop <br> dictionary / dictionary operations <br> tuple <br> while loop - break, continue <br> for - enumerate | ⭐⭐⭐ | ✅ |
+| Wk7 | function | function definition / 2 types of function <br> function components <br> making functions practice | ⭐⭐⭐ | ✅ |
+| Wk8~10 | 100 exercises I | coding exercises | ⭐⭐⭐ | 100 exercises | x | 
+| Wk11 | Try-Except Block & Top Errors | Syntax Error & RE Top 9 Errors <br> try-except(+pass/Exception) <br> try-except-else-finally <br> raise Exception | ⭐⭐⭐⭐ | Quiz 1/2 ✅ <br> Quiz 2/2 ✅ | |
+| Wk12 | Regular Expressions(Easy) | meta-characters <br> search(), match(), findall() <br> open() / txt file exercises | ⭐⭐⭐⭐ | ✅ | |
+
+</div>
+
+
+  
+</details>
+
+
 ## Python_Basics(E) Curriculums(in-depth)
 
 <details>
@@ -36,44 +66,6 @@
 
   
 </details>
-
-
-## Python_Basics Curriculums(in-depth)
-
-<details>
-
-<summary>see the curriculum</summary>
-
-<br>
-
-  <div align="center", class="python">
-
-| No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Wk1 | Python Fundamentals 1/3 | introduction <br> data types <br> variable / print() / string manipulation(indexing + slicing) | ⭐ | ✅ |✅ <br> 7 Coding Problems |
-| Wk2 | Python Fundamentals 2/3 | operators / assignment operators / operator priority / operations <br> type(), abs(), input(), type conversions | ⭐⭐ | ✅ | ✅ <br> 6 Coding Problems |
-| Wk3 | Python Fundamentals 3/3 | f-string / split() / zfill() + more string functions <br> reading documentations practice I <br> bool data type / inequalities | ⭐⭐ | ✅ | ✅ <br> 4 Coding Problems |
-| Wk4 | if | if-else / if-elif-else <br> nested if / and & or / pass <br> if statement in one line | ⭐⭐ | ✅ |
-| Wk5 | for + list | list / append(), insert(), extend() + more list functions <br> reading documentations practice II <br> for / for - range() | ⭐⭐⭐ | ✅ |
-| Wk6 | while + dictionary + tuple | nested for loop <br> dictionary / dictionary operations <br> tuple <br> while loop - break, continue <br> for - enumerate | ⭐⭐⭐ | ✅ |
-| Wk7 | function | function definition / 2 types of function <br> function components <br> making functions practice | ⭐⭐⭐ | ✅ |
-| Wk8~10 | 100 exercises I | coding exercises | ⭐⭐⭐ | 100 exercises | x | 
-| Wk11 | Try-Except Block & Top Errors | Syntax Error & RE Top 9 Errors <br> try-except(+pass/Exception) <br> try-except-else-finally <br> raise Exception | ⭐⭐⭐⭐ | Quiz 1/2 ✅ <br> Quiz 2/2 ✅ | |
-| Wk12 | Regular Expressions(Easy) | meta-characters <br> search(), match(), findall() <br> open() / txt file exercises | ⭐⭐⭐⭐ | ✅ | |
-
-</div>
-
-
-  
-</details>
-
-
-
-
-
-
-
-
 
 
 </i>
