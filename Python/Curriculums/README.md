@@ -46,7 +46,7 @@
 | Wk2 | String |type()/len()/string <br> intro to function | ⭐ | ✅ | ✅ <br> 5 Coding Problems |
 | Wk3 | Math | math operators(+,-,*,/,//,%) <br> assignment operators | ⭐⭐ | ✅ | ✅ <br> 7 Coding Problems |
 | Wk4 | Python Data 1/2 | 4 data types intro <br> type conversions <br> string operators | ⭐⭐ | x | ✅ <br> 7 Coding Problems |
-| Wk5 | Python Data 2/2 | inequalities / bool data type <br> operations practice | ⭐⭐ | ✅ |
+| Wk5 | Python Data 2/2 | inequalities / bool data type <br> operations practice | ⭐⭐ | ✅ | ✅ <br> 9 Coding Problems |
 | Wk6 | If | if-else / if-elif-else | ⭐⭐ | ✅ |
 | Wk7 | List | list naming & indexing / slicing <br> append(), extend() | ⭐⭐ | ✅ |
 | Wk8 | Review I + Test I(A,B) | review I <br> Test I A: Multiple-Choice & Short-Answer Questions <br> Test I B: Practice Coding Questions  | ⭐⭐ | Tests | x |
