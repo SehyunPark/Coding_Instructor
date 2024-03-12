@@ -15,23 +15,65 @@
 With over 2 years of teaching experience and having taught over 100 students in both Korean and English, I use my acquired teaching skills to encourage students to take an interest in coding. I help students realize that coding is a playful way to express their thoughts through algorithms and engage in dialogue with computers.
 
 For over 3+ years, I've been running a Tech Blog where I've documented various coding-related knowledge. <b>Click this [▶️](https://sh-avid-learner.tistory.com/) button to view the blog.</b>
+
 <div align="center">
-<img width="390" height = "390" alt="1" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/81101f76-a6a7-4f2e-9eda-8d5863ed7876">
+<!-- <img width="390" height = "390" alt="1" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/81101f76-a6a7-4f2e-9eda-8d5863ed7876">
 <img width="390" height = "390" alt="2" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/13c233a6-08fd-4c7e-b4d4-ee9261c9e2e7">
 <p>
 <img width="390" height = "390" alt="3" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/da5d5196-4bdc-46b6-9991-76be5f7ff1ad">
 <img width="390" height = "390" alt="4" src="https://github.com/SehyunPark/Coding_Instructor/assets/28240330/d5b5e085-1e2a-406a-a49e-e93beeba2995">
-</p>
+</p> -->
 
 #
 
 ### Repository Navigations
 
-| Name | Classes | Weeks | Status |
-| :--------: | :-----------: | :-----------: | :-----------: |
-| Python | Python_Basics <br> Python_Basics(E) <br> Python Applications | TBD | In Progress |
-| Roblox | Roblox_Basics | TBD | In Progress |
-| IT | Meta-Skills | TBD | In Progress |
+<table align = "center">
+  <thead>
+    <tr>
+      <th> Name </th>
+      <th> Classes </th>
+      <th> Weeks </th>
+      <th> Status </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" rowspan="5" > Python </td>
+      <td align="center"> Python_Basics </td>
+      <td align="center" > TBD </td>
+      <td align="center" > In Progress </td>
+    </tr>
+    <tr>
+      <td align="center"> Python(E)_Basics</td>
+      <td align="center" > TBD </td>
+      <td align="center" > In Progress </td>
+    </tr>
+    <tr>
+      <td align="center"> Python_Projects I </td>
+      <td align="center" > TBD </td>
+      <td align="center" > In Progress </td>
+    </tr>
+    <tr>
+      <td align="center"> Python_Advanced </td>
+      <td align="center" > TBD </td>
+      <td align="center" > In Progress </td>
+    </tr>
+    <tr>
+      <td align="center"> Python(E)_Advanced </td>
+      <td align="center" > TBD </td>
+      <td align="center" > In Progress </td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="3" > Roblox </td>
+      <td align="center">  </td>
+      <td align="center" > TBD </td>
+      <td align="center" > In Progress </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 </div>
 
