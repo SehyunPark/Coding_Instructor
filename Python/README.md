@@ -24,7 +24,7 @@
 
 # Curriculums
 
-* quizzes attached in each weeks
+* quizzes & assignments attached in each weeks
 
 <div align="center", class="python">
 
