@@ -16,7 +16,7 @@
 | Wk2 | Python Fundamentals 2/3 | operators / assignment operators / operator priority / operations <br> type(), abs(), input(), type conversions | ⭐⭐ | ✅ | ✅ <br> 6 Coding Problems |
 | Wk3 | Python Fundamentals 3/3 | f-string / split() / zfill() + more string functions <br> reading documentations practice I <br> bool data type / inequalities | ⭐⭐ | ✅ | ✅ <br> 4 Coding Problems |
 | Wk4 | if | if-else / if-elif-else <br> nested if / and & or / pass <br> if statement in one line | ⭐⭐ | ✅ | ✅ <br> 2 Coding Problems |
-| Wk5 | for + list | list / append(), insert(), extend() + more list functions <br> reading documentations practice II <br> for / for - range() | ⭐⭐⭐ | ✅ |
+| Wk5 | for + list | list / append(), insert(), extend() + more list functions <br> reading documentations practice II <br> for / for - range() | ⭐⭐⭐ | ✅ | ✅ <br> 5 Coding Problems |
 | Wk6 | while + dictionary + tuple | nested for loop <br> dictionary / dictionary operations <br> tuple <br> while loop - break, continue <br> for - enumerate | ⭐⭐⭐ | ✅ |
 | Wk7 | function | function definition / 2 types of function <br> function components <br> making functions practice | ⭐⭐⭐ | ✅ |
 | Wk8~10 | 100 exercises I | coding exercises | ⭐⭐⭐ | 100 exercises | x | 
