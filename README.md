@@ -41,7 +41,7 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
     <tr>
       <td align="center" rowspan="5" > Python </td>
       <td align="center"> Python_Basics </td>
-      <td align="center" > TBD </td>
+      <td align="center" > 20 </td>
       <td align="center" > In Progress </td>
     </tr>
     <tr>
