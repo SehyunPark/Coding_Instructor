@@ -45,13 +45,13 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
       <td align="center" > In Progress </td>
     </tr>
     <tr>
-      <td align="center"> Python(E)_Advanced </td>
-      <td align="center" > TBD </td>
+      <td align="center"> Python_Basics </td>
+      <td align="center" > 20 </td>
       <td align="center" > In Progress </td>
     </tr>
     <tr>
-      <td align="center"> Python_Basics </td>
-      <td align="center" > 20 </td>
+      <td align="center"> Python(E)_Advanced </td>
+      <td align="center" > TBD </td>
       <td align="center" > In Progress </td>
     </tr>
     <tr>
