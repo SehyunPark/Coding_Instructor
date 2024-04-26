@@ -20,7 +20,7 @@
 | Wk6 | While + Dictionary + Tuple | nested for loop <br> dictionary / dictionary operations <br> tuple <br> while loop - break, continue <br> for - enumerate | ⭐⭐⭐ | ✅ | ✅ <br> 3 Coding Problems <br> (1 Hard) |
 | Wk7 | Function | function definition / 2 types of function <br> function components <br> making functions practice | ⭐⭐⭐ | ✅ | ✅ <br> 4 Coding Problems <br> (2 Advanced) |
 | Wk8~10 | 100 exercises I | coding exercises | ⭐⭐⭐ | 100 exercises | x | 
-| Wk11 | Try-Except Block & Top Errors | Syntax Error & RE Top 9 Errors <br> try-except(+pass/Exception) <br> try-except-else-finally <br> raise Exception | ⭐⭐⭐⭐ | Quiz 1/2 ✅ <br> Quiz 2/2 ✅ | |
+| Wk11 | Try-Except Block & Top Errors | Syntax Error & RE Top 9 Errors <br> try-except(+pass/Exception) <br> try-except-else-finally <br> raise Exception | ⭐⭐⭐⭐ | Quiz 1/2 ✅ <br> Quiz 2/2 ✅ | ✅ <br> 4 Coding Problems <br> (2 Advanced & 1 Champion) |
 | Wk12 | Regular Expressions(Easy) | meta-characters <br> search(), match(), findall() <br> open() / txt file exercises | ⭐⭐⭐⭐ | ✅ | |
 | Wk13 | Data Types II | Set Data Stucture(attributes, functions, intersection/union/difference) <br> bool() <br> list +, * <br> dictionary functions | ⭐⭐⭐ | ✅ | |
 | Wk14 | 2D Array(Easy) | Intro, Double-Indexing <br> 2D-Array initialization(memory) <br> list comprehension| ⭐⭐⭐⭐⭐ | ✅ | |
