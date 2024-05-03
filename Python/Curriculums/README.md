@@ -53,7 +53,7 @@
 | Wk5 | Python Data 2/2 | inequalities / bool data type <br> operations practice | ⭐⭐ | ✅ | ✅ <br> 9 Coding Problems <br> (4 Advanced) |
 | Wk6 | If | if-else / if-elif-else | ⭐⭐ | ✅ | ✅ <br> 6 Coding Problems <br> (2 Advanced) |
 | Wk7 | List | list naming & indexing / slicing <br> append(), extend() | ⭐⭐ | ✅ |
-| Wk8 | Review I + Test I(A,B) | review I <br> Test I A: Multiple-Choice & Short-Answer Questions <br> Test I B: Practice Coding Questions  | ⭐⭐ | Tests | x |
+| Wk8 | Review I + Test I(A,B) | Review I <br> Test I A: Multiple-Choice & Short-Answer Questions <br> Test I B: Practice Coding Questions  | ⭐⭐ | Tests | x |
 | Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x |
 | Wk10 | For 2/2 | list for loop / for loop exercises including coding contest problems | ⭐⭐⭐ | ✅ |
 | Wk11 | Input() | input() function + types of input() / library using randint() function / exercises including coding contest champion problems | ⭐⭐⭐ | ✅ |
@@ -62,10 +62,8 @@
 | Wk15 | If(Hard) | nested-if <br> and,or | ⭐⭐⭐⭐ | ✅ | 
 | Wk16 | Tuple | intro<br>indexing / slicing / 'double' indexing&slicing<br> tuple +, * | ⭐⭐ | ✅ |
 | Wk17 | Set | 2 attributes of set() <br> add(), update(), remove() <br> intersection(), union(), difference() | ⭐⭐⭐⭐ | ✅ |
-| Wk18 | Dictionary 1/2 | | ⭐⭐⭐ | |
-| Wk19 | Dictionary 2/2 | | ⭐⭐⭐ | |
-| Wk20 | While 1/2 | | ⭐⭐⭐ | |
-| Wk21 | While 2/2 | | ⭐⭐⭐ | |
+| Wk18~19 | 50 exercises II | coding exercises | ⭐⭐⭐⭐ | 50 exercises | x |
+| Wk20 | Review II + Test II(A,B) | Review II <br> Test II A: Multiple-Choice & Short-Answer Questions <br> Test II B: Practice Coding Questions  | ⭐⭐⭐⭐ | Tests | x |
 </div>
 
   
