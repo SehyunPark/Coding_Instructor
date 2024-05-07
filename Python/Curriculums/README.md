@@ -52,7 +52,7 @@
 | Wk4 | Python Data 1/2 | 4 data types intro <br> type conversions <br> string operators | ⭐⭐ | x | ✅ <br> 7 Coding Problems <br> (1 Advanced & 1 Champion) |
 | Wk5 | Python Data 2/2 | inequalities / bool data type <br> operations practice | ⭐⭐ | ✅ | ✅ <br> 9 Coding Problems <br> (4 Advanced) |
 | Wk6 | If | if-else / if-elif-else | ⭐⭐ | ✅ | ✅ <br> 6 Coding Problems <br> (2 Advanced) |
-| Wk7 | List | list naming & indexing / slicing <br> append(), extend() | ⭐⭐ | ✅ |
+| Wk7 | List | list naming & indexing / slicing <br> append(), extend() | ⭐⭐ | ✅ | ✅ <br> 7 Coding Problems <br> (2 Advanced) |
 | Wk8 | Review I + Test I(A,B) | Review I <br> Test I A: Multiple-Choice & Short-Answer Questions <br> Test I B: Practice Coding Questions  | ⭐⭐ | Tests | x |
 | Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x |
 | Wk10 | For 2/2 | list for loop / for loop exercises including coding contest problems | ⭐⭐⭐ | ✅ |
