@@ -24,7 +24,7 @@
 | Wk12 | Regular Expressions(Easy) | meta-characters <br> search(), match(), findall() <br> open() / txt file exercises | ⭐⭐⭐⭐ | ✅ | |
 | Wk13 | Data Types II | Set Data Stucture(attributes, functions, intersection/union/difference) <br> bool() <br> list +, * <br> dictionary functions | ⭐⭐⭐ | ✅ | |
 | Wk14 | 2D Array(Easy) | Intro, Double-Indexing <br> 2D-Array initialization(memory) <br> list comprehension| ⭐⭐⭐⭐⭐ | ✅ | |
-| Wk15 | File I/O | f.open() / f.write() / f.close() <br> file modes <br> reading files | ⭐⭐⭐⭐ | |
+| Wk15 | File I/O | f.open() / f.write() / f.close() <br> file modes <br> reading files | ⭐⭐⭐⭐ | ✅ | |
 | Wk16~18 | 100 exercises II | coding exercises | ⭐⭐⭐⭐ | 100 exercises | x |
 | Wk19~20 | Final Test | | ⭐⭐⭐⭐ | Test Problems | x |
 </div>
