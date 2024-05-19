@@ -31,10 +31,10 @@
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
 | Python Advanced | TBD | TBD | ⭐⭐⭐ |
-| Python Basics | • Python Fundamentals (3 Weeks) <br> • If <br> • For + List <br> • While + Dictionary + Tuple <br> • Function <br> • 100 exercises I (3 weeks) <br> • Try-Except Block & Top Errors <br> • Regular Expressions(Easy) <br> • Data Types II <br> • 2D Array <br> • File I/O <br> • 100 exercises II (3 weeks) <br> • Final Test (2 Weeks)| 20 | ⭐⭐ |
+| Python Basics | • Python Fundamentals (3 Weeks) <br> • If <br> • For + List <br> • While + Dictionary + Tuple <br> • Function <br> • 100 exercises I (3 weeks) <br> • Try-Except Block & Top Errors <br> • Regular Expressions(Easy) <br> • Data Types II <br> • 2D Array(Easy) <br> • File I/O <br> • 100 exercises II (3 weeks) <br> • Final Test (2 Weeks)| 20 | ⭐⭐ |
 | Python(E) Advanced | TBD | TBD | ⭐⭐ |
 | Python(E) Basics | • Input/Output/Variable <br> • String <br> • Math <br> • Python Data (2 Weeks) <br> • if <br> • list <br> • Review I + Test I(A,B) <br> • for (2 Weeks) <br> • input() <br> • 50 exercises I (2 weeks) <br> • functions(Hard) <br> • if(Hard) <br> • Tuple <br> • Set <br> • 50 exercises II (2 weeks) <br> • Review II + Test II(A,B)  | 20 | ⭐ |
-| Python Projects I |  | TBD | ⭐⭐⭐ |
+| Python Projects I | TBD | TBD | ⭐⭐⭐ |
 </div>
 
 </i>
