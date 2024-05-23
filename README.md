@@ -64,12 +64,6 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
       <td align="center" > TBD </td>
       <td align="center" > In Progress </td>
     </tr>
-    <tr>
-      <td align="center" rowspan="3" > Roblox </td>
-      <td align="center">  </td>
-      <td align="center" > TBD </td>
-      <td align="center" > In Progress </td>
-    </tr>
   </tbody>
 </table>
 
