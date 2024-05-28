@@ -13,6 +13,7 @@
 
 | Course Name | Objectives | 
 | :--------: | :-----------: |
+| Python Data Analysis | |
 | Python Advanced | |
 | Python Basics | • This is an introductory course designed for students in the second year of middle school or above who are just starting with Python. <br> • The course covers all essential concepts from A to Z, ensuring a comprehensive understanding of the Python programming language. <br> • Through this course, students will grasp the fundamentals of Python, learn how to read code, and gain the ability to create basic programs on their own. <br> • With custom-made teaching materials and quizzes, students will have the opportunity to broaden their knowledge of the Python language. |
 | Python(E) Advanced | |
@@ -30,6 +31,7 @@
 
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
+| Python Data Analysis | TBD | TBD | ⭐⭐⭐⭐ |
 | Python Advanced | TBD | TBD | ⭐⭐⭐ |
 | Python Basics | • Python Fundamentals (3 Weeks) <br> • If <br> • For + List <br> • While + Dictionary + Tuple <br> • Function <br> • 100 exercises I (3 weeks) <br> • Try-Except Block & Top Errors <br> • Regular Expressions(Easy) <br> • Data Types II <br> • 2D Array(Easy) <br> • File I/O <br> • 100 exercises II (3 weeks) <br> • Final Test (2 Weeks)| 20 | ⭐⭐ |
 | Python(E) Advanced | TBD | TBD | ⭐⭐ |
