@@ -54,7 +54,7 @@
 | Wk6 | If | if-else / if-elif-else | ⭐⭐ | ✅ | ✅ <br> 6 Coding Problems <br> (2 Advanced) |
 | Wk7 | List | list naming & indexing / slicing <br> append(), extend() | ⭐⭐ | ✅ | ✅ <br> 7 Coding Problems <br> (2 Advanced) |
 | Wk8 | Review I + Test I(A,B) | Review I <br> Test I A: Multiple-Choice & Short-Answer Questions <br> Test I B: Practice Coding Questions  | ⭐⭐ | Tests | x |
-| Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x |
+| Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x | ✅ <br> 5 Coding Problems <br> (3 Advanced) |
 | Wk10 | For 2/2 | list for loop / for loop exercises including coding contest problems | ⭐⭐⭐ | ✅ |
 | Wk11 | Input() | input() function + types of input() / library using randint() function / exercises including coding contest champion problems | ⭐⭐⭐ | ✅ |
 | Wk12~13 | 50 exercises I | coding exercises | ⭐⭐⭐ | 50 exercises | x |
