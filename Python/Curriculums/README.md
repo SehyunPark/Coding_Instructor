@@ -57,12 +57,12 @@
 | Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x | ✅ <br> 5 Coding Problems <br> (3 Advanced) |
 | Wk10 | For 2/2 | list for loop / for loop exercises including coding contest problems | ⭐⭐⭐ | ✅ | ✅ <br> 6 Coding Problems <br> (4 Advanced & 1 Champion) |
 | Wk11 | Input() | input() function + types of input() / library using randint() function / exercises including coding contest champion problems | ⭐⭐⭐ | ✅ |
-| Wk12~13 | 50 exercises I | coding exercises | ⭐⭐⭐ | 50 exercises | x |
+| Wk12~13 | 50 exercises I | Coding Exercises | ⭐⭐⭐ | 50 exercises | x |
 | Wk14 | Functions(Hard) | upper(), lower(), isupper(), islower(), isalpha(), isdigit(), find(), rfind() <br> list insert(), remove(), del | ⭐⭐⭐⭐ | ✅ | 
 | Wk15 | If(Hard) | nested-if <br> and,or | ⭐⭐⭐⭐ | ✅ | 
 | Wk16 | Tuple | intro<br>indexing / slicing / 'double' indexing&slicing<br> tuple +, * | ⭐⭐ | ✅ |
 | Wk17 | Set | 2 attributes of set() <br> add(), update(), remove() <br> intersection(), union(), difference() | ⭐⭐⭐⭐ | ✅ |
-| Wk18~19 | 50 exercises II | coding exercises | ⭐⭐⭐⭐ | 50 exercises | x |
+| Wk18~19 | 50 exercises II | Coding Exercises | ⭐⭐⭐⭐ | 50 exercises | x |
 | Wk20 | Review II + Test II(A,B) | Review II <br> Test II A: Multiple-Choice & Short-Answer Questions <br> Test II B: Practice Coding Questions  | ⭐⭐⭐⭐ | Tests | x |
 </div>
 
