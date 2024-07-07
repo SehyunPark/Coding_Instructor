@@ -75,7 +75,7 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
 
 ## 🧑🏻‍💼Work Experience
 
-- Coding Instructor (2022.04 - Present)
+- Coding Instructor Freelancer (2022.04 - Present)
   - Taught 80+ classes(including 1:1 coding lessons) in total and over 100+ elementary, middle, high school, and university students
   - Also tutored remote coding classes in English for university students in the UK and Singapore
   - Taught <b> Python, C, C++, C#, Scratch, Roblox Game Creator, and IT Fundamental Skills </b>
