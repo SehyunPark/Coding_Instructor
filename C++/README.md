@@ -19,7 +19,7 @@
 </div>
 
 
-# Curriculums
+# Curriculums Outline
 
 * quizzes & assignments attached in each weeks
 
@@ -32,4 +32,28 @@
 </div>
 
 </i>
+
+
+<i>
+
+## C++_Basics Curriculums(in-depth)
+
+<details>
+
+<summary>see the curriculum</summary>
+
+<br>
+
+  <div align="center", class="python">
+
+| No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Wk1 | C++ Introduction | Introduction <br> C++ Development Process <br> Installation <br> Hello World! <br> Comments | ⭐⭐ | ✅ | N/A |
+</div>
+
+</details>
+
+
+</i>
+
 
