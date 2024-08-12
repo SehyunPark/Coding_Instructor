@@ -28,7 +28,7 @@
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
 | C++ Advanced | • |  | ⭐⭐⭐ |
-| C++ Basics | • C++ Introduction <br> •  |  | ⭐⭐ |
+| C++ Basics | • C++ Introduction <br> • C++ Fundamentals(2 Weeks) <br> • |  | ⭐⭐ |
 </div>
 
 </i>
@@ -49,6 +49,7 @@
 | No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Wk1 | C++ Introduction | Introduction <br> C++ Development Process <br> Installation <br> Hello World! <br> Comments | ⭐⭐ | ✅ | N/A |
+| Wk2 | C++ Fundamentals(1/2) | Objects/Variables <br> Initializations <br> iostream library <br> Extraction Process <br> Literal Constants / Operators / Expressions | ⭐⭐ | ✅ |  |
 </div>
 
 </details>
