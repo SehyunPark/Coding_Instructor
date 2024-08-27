@@ -50,6 +50,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Wk1 | C++ Introduction | Introduction <br> C++ Development Process <br> Installation <br> Hello World! <br> Comments | ⭐⭐ | ✅ | N/A |
 | Wk2 | C++ Fundamentals(1/2) | Objects/Variables <br> Initializations <br> iostream library <br> Extraction Process <br> Literal Constants / Operators / Expressions | ⭐⭐ | ✅ |  |
+| Wk3 | C++ Fundamentals(2/2) | (Value-returning) Functions <br> (non-value returning) Functions <br> Function Parameters & arguments | ⭐⭐ |  |  |
 </div>
 
 </details>
