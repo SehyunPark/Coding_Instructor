@@ -94,7 +94,7 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
   - Managed students by maintaining regular communication with students and their parents to provide updates and discuss concerns
   - Managed individualized Google Classroom sessions tailored to students’ skill levels
     
-- OA Instructor Freelancer (2023.06 - Present)
+- OA Instructor Freelancer (2023.06 - 2024.09)
   - Taught Microsoft Office (PowerPoint, Word, Excel) skills and MOS Word 2016 Expert Certification lessons for adults preparing to get a job
 
 ## 🧰Languages & Tools
