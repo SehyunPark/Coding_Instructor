@@ -49,8 +49,9 @@
 | No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Wk1 | C++ Introduction | Introduction <br> C++ Development Process <br> Installation <br> Hello World! <br> Comments | ⭐⭐ | ✅ | N/A |
-| Wk2 | C++ Fundamentals(1/2) | Objects/Variables <br> Initializations <br> iostream library <br> Extraction Process <br> Literal Constants / Operators / Expressions | ⭐⭐ | ✅ |  |
-| Wk3 | C++ Fundamentals(2/2) | (Value-returning) Functions <br> (non-value returning) Functions <br> Function Parameters & arguments | ⭐⭐ | ✅ |  |
+| Wk2 | C++ Fundamentals(1/2) | Objects/Variables <br> Initializations <br> iostream library <br> Extraction Process <br> Literal Constants / Operators / Expressions | ⭐⭐ | ✅ | TBD |
+| Wk3 | C++ Fundamentals(2/2) | (Value-returning) Functions <br> (non-value returning) Functions <br> Function Parameters & arguments | ⭐⭐ | ✅ | TBD |
+| Wk4 | Constants & Strings | Const Variable <br> Literals <br> Numerical Systems <br> Conditional Operators | ⭐⭐⭐ | |
 </div>
 
 </details>
