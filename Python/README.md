@@ -15,6 +15,7 @@
 | :--------: | :-----------: |
 | Python Advanced | • This is one of the most challenging courses, primarily focused on Python's class theory. <br> • It is structured with various advanced concepts, enabling students to undertake more complex projects. By taking this course, students will master Python theory and cover all the fundamental concepts of Python, gaining confidence in their skills. <br> • Afterward, students can move on to a more specialized path by taking the Python project course. |
 | Python Basics | • This is an introductory course designed for students in the second year of middle school or above who are just starting with Python. <br> • The course covers all essential concepts from A to Z, ensuring a comprehensive understanding of the Python programming language. <br> • Through this course, students will grasp the fundamentals of Python, learn how to read code, and gain the ability to create basic programs on their own. <br> • With custom-made teaching materials and quizzes, students will have the opportunity to broaden their knowledge of the Python language. |
+| Python(E) Advanced | |
 | Python(E) Basics | • This is the initial Python learning course designed for elementary school students and first-year middle school students. It serves as their first introduction to programming languages. <br> • Students learn fundamental programming concepts (variables, data types, math operators, if statements and lists) and develop their programming skills by solving various problems (supplementary exercises, quizzes, midterm exams, final exams). |
 <!-- | Python Projects I | • This is an intermediate-level course on creating your first Python GUI program using various libraries such as <b>Tkinter and PySimpleGUI</b>. <br> • Students will learn how to create projects using various libraries and apply and advance their Python knowledge learned in the previous Python Basics classes, ultimately developing sophisticated programs. <br> • Measured students' understanding during the course through quizzes I created myself, and if you enter each student's project folder, their project code is displayed. | -->
 
@@ -29,8 +30,9 @@
 
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| Python Advanced | • Python OOP <br> | TBD | ⭐⭐⭐ |
-| Python Basics | • Python Fundamentals (3 Weeks) <br> • If <br> • For + List <br> • While + Dictionary + Tuple <br> • Function <br> • 100 exercises I (3 weeks) <br> • Try-Except Block & Top Errors <br> • Regular Expressions(Easy) <br> • Data Types II <br> • 2D Array(Easy) <br> • File I/O <br> • 100 exercises II (3 weeks) <br> • Final Test (2 Weeks)| 20 | ⭐⭐ |
+| Python Advanced | • Python OOP <br> | TBD | ⭐⭐⭐⭐ |
+| Python Basics | • Python Fundamentals (3 Weeks) <br> • If <br> • For + List <br> • While + Dictionary + Tuple <br> • Function <br> • 100 exercises I (3 weeks) <br> • Try-Except Block & Top Errors <br> • Regular Expressions(Easy) <br> • Data Types II <br> • 2D Array(Easy) <br> • File I/O <br> • 100 exercises II (3 weeks) <br> • Final Test (2 Weeks)| 20 | ⭐⭐⭐ |
+| Python(E) Advanced | • Dictionary (2 Weeks) <br> | TBD | ⭐⭐ |
 | Python(E) Basics | • Input/Output/Variable <br> • String <br> • Math <br> • Python Data (2 Weeks) <br> • if <br> • list <br> • Review I + Test I(A,B) <br> • for (2 Weeks) <br> • input() <br> • 50 exercises I (2 weeks) <br> • functions(Hard) <br> • if(Hard) <br> • Tuple <br> • Set <br> • 50 exercises II (2 weeks) <br> • Review II + Test II(A,B)  | 20 | ⭐ |
 </div>
 
@@ -67,9 +69,27 @@
 | Wk19~20 | Final Test | | ⭐⭐⭐⭐ | Test Problems | x |
 </div>
 
+</details>
+
+## Python_Advanced(E) Curriculums(in-depth)
+
+<details>
+
+<summary>see the curriculum</summary>
+
+<br>
+
+<div align="center", class="python">
+
+| No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Wk1 | Dictionary 1/2 | dictionary intro(comparison with a list) <br> 4 dictionary attributes | ⭐⭐⭐⭐ | ✅ |  |
+| Wk2 | Dictionary 2/2 | |  |  | |
+</div>
 
   
 </details>
+
 
 
 ## Python_Basics(E) Curriculums(in-depth)
