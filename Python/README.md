@@ -84,7 +84,7 @@
 | No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Wk1 | Dictionary 1/2 | dictionary intro(comparison with a list) <br> 4 dictionary attributes | ⭐⭐⭐⭐ | ✅ |  |
-| Wk2 | Dictionary 2/2 | |  |  | |
+| Wk2 | Dictionary 2/2 | dictionary creation / modification / deletion / insertion operations <br> keys(), values(), items(), get() | ⭐⭐⭐⭐ |  | |
 </div>
 
   
