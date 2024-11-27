@@ -85,7 +85,8 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Wk1 | Dictionary 1/2 | dictionary intro(comparison with a list) <br> 4 dictionary attributes | ⭐⭐⭐⭐ | ✅ |  |
 | Wk2 | Dictionary 2/2 | dictionary creation / modification / deletion / insertion operations <br> keys(), values(), items(), get() | ⭐⭐⭐⭐ | ✅ | |
-| Wk3 | While 1/2 | while loop intro <br> break keyword <br> various exercises | ⭐⭐⭐⭐ | | |
+| Wk3 | While 1/2 | while loop intro <br> break keyword <br> various exercises | ⭐⭐⭐⭐ | ✅ | |
+| Wk4 | While 2/2 | continue keyword <br> various while loop exercises | ⭐⭐⭐⭐ | | |
 </div>
 
   
