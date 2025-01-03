@@ -40,7 +40,27 @@
 
 <i>
 
-## Python_Basics Curriculums(in-depth)
+## Python_Advanced Curriculum(in-depth)
+
+<details>
+
+<summary>see the curriculum</summary>
+
+<br>
+
+<div align="center", class="python">
+
+| No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Wk1 |  |  |  |  |  |
+</div>
+
+  
+</details>
+
+
+
+## Python_Basics Curriculum(in-depth)
 
 <details>
 
@@ -71,7 +91,7 @@
 
 </details>
 
-## Python_Advanced(E) Curriculums(in-depth)
+## Python_Advanced(E) Curriculum(in-depth)
 
 <details>
 
@@ -95,7 +115,7 @@
 
 
 
-## Python_Basics(E) Curriculums(in-depth)
+## Python_Basics(E) Curriculum(in-depth)
 
 <details>
 
