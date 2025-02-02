@@ -107,7 +107,10 @@
 | Wk22 | Dictionary 2/2 | dictionary creation / modification / deletion / insertion operations <br> keys(), values(), items(), get() | ⭐⭐⭐⭐ | ✅ | |
 | Wk23 | While 1/2 | while loop intro <br> break keyword <br> various exercises | ⭐⭐⭐⭐ | ✅ | |
 | Wk24 | While 2/2 | continue keyword <br> various while loop exercises | ⭐⭐⭐⭐ | ✅ | |
-| Wk25 | Create Your Function | def / return keyword <br> more than 1 inputs / outputs | ⭐⭐⭐⭐ | | |
+| Wk25 | Create Your Function | def / return keyword <br> more than 1 inputs / outputs | ⭐⭐⭐⭐ | ✅ | |
+| Wk26 | Advanced For loop | | ⭐⭐⭐⭐⭐ | |
+| Wk27~29 | Tkinter(Easy) | | ⭐⭐⭐⭐⭐⭐ | |
+| Wk30 | 50 Exercises III | | | |
 </div>
 
   
@@ -138,12 +141,12 @@
 | Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x | ✅ <br> 5 Coding Problems <br> (3 Advanced) |
 | Wk10 | For 2/2 | list for loop / for loop exercises including coding contest problems | ⭐⭐⭐ | ✅ | ✅ <br> 6 Coding Problems <br> (4 Advanced & 1 Champion) |
 | Wk11 | Input() | input() function + types of input() / library using randint() function / exercises including coding contest champion problems | ⭐⭐⭐ | ✅ |
-| Wk12~13 | 50 exercises I | Coding Exercises | ⭐⭐⭐ | 50 exercises | x |
+| Wk12~13 | 50 Exercises I | Coding Exercises | ⭐⭐⭐ | 50 exercises | x |
 | Wk14 | Functions(Hard) | upper(), lower(), isupper(), islower(), isalpha(), isdigit(), find(), rfind() <br> list insert(), remove(), del | ⭐⭐⭐⭐ | ✅ | 
 | Wk15 | If(Hard) | nested-if <br> and,or | ⭐⭐⭐⭐ | ✅ | 
 | Wk16 | Tuple | intro<br>indexing / slicing / 'double' indexing&slicing<br> tuple +, * | ⭐⭐ | ✅ |
 | Wk17 | Set | 2 attributes of set() <br> add(), update(), remove() <br> intersection(), union(), difference() | ⭐⭐⭐⭐ | ✅ |
-| Wk18~19 | 50 exercises II | Coding Exercises | ⭐⭐⭐⭐ | 50 exercises | x |
+| Wk18~19 | 50 Exercises II | Coding Exercises | ⭐⭐⭐⭐ | 50 exercises | x |
 | Wk20 | Review II + Test II(A,B) | Review II <br> Test II A: Multiple-Choice & Short-Answer Questions <br> Test II B: Practice Coding Questions  | ⭐⭐⭐⭐ | Tests | x |
 </div>
 
