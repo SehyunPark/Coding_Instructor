@@ -32,7 +32,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | Python Advanced | • Python OOP <br> | TBD | ⭐⭐⭐⭐ |
 | Python Basics | • Python Fundamentals (3 Weeks) <br> • If <br> • For + List <br> • While + Dictionary + Tuple <br> • Function <br> • 100 Exercises I (3 weeks) <br> • Try-Except Block & Top Errors <br> • Regular Expressions(Easy) <br> • Data Types II <br> • 2D Array(Easy) <br> • File I/O <br> • 100 Exercises II (3 weeks) <br> • Final Test (2 Weeks)| 20 | ⭐⭐⭐ |
-| Python(E) Advanced | • Dictionary (2 Weeks) <br> • While (2 Weeks) <br> • Create Your Function <br> • Advanced For Loop <br> • Tkinter(Easy) (3 Weeks) <br> 50 Exercises III (2 Weeks) | TBD | ⭐⭐ |
+| Python(E) Advanced | • Dictionary (2 Weeks) <br> • While (2 Weeks) <br> • Create Your Function <br> • Advanced For Loop <br> • Tkinter(Easy) (3 Weeks) <br> • 50 Exercises III (2 Weeks) | TBD | ⭐⭐ |
 | Python(E) Basics | • Input/Output/Variable <br> • String <br> • Math <br> • Python Data (2 Weeks) <br> • if <br> • list <br> • Review I + Test I(A,B) <br> • for (2 Weeks) <br> • input() <br> • 50 Exercises I (2 weeks) <br> • functions(Hard) <br> • if(Hard) <br> • Tuple <br> • Set <br> • 50 Exercises II (2 weeks) <br> • Review II + Test II(A,B)  | 20 | ⭐ |
 </div>
 
