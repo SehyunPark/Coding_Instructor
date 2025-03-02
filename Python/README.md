@@ -114,7 +114,8 @@
 | Wk32 | Data Structure - Stack(Easy) | | | |
 | Wk33 | Data Structure - Queue(Easy) | | | |
 | Wk34 | Data Structure - Deque(Easy) | | | |
-| Wk35 |
+| Wk35~36 | Code Reading (Easy) Part 1&2 | | | |
+| Wk37 | | | | |
 
 </div>
 
