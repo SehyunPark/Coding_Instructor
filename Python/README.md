@@ -108,7 +108,7 @@
 | Wk23 | While 1/2 | while loop intro <br> break keyword <br> various exercises | ⭐⭐⭐⭐ | ✅ | |
 | Wk24 | While 2/2 | continue keyword <br> various while loop exercises | ⭐⭐⭐⭐ | ✅ | |
 | Wk25 | Create Your Function | def / return keyword <br> more than 1 inputs / outputs | ⭐⭐⭐⭐ | ✅ | |
-| Wk26 | Advanced For loop | | ⭐⭐⭐⭐⭐ | |
+| Wk26 | Advanced For loop | for-enumerate loop <br> for-zip loop <br> nested for loop(two, three level) | ⭐⭐⭐⭐⭐ | |
 | Wk27~29 | Tkinter(Easy) | | ⭐⭐⭐⭐⭐⭐ | |
 | Wk30~31 | 50 Exercises III | | | |
 | Wk32 | Data Structure - Stack(Easy) | | | |
