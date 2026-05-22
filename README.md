@@ -28,47 +28,85 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
 
 ### Repository Navigations
 
-<table align = "center">
+<table align="center">
   <thead>
     <tr>
-      <th> Name </th>
-      <th> Classes </th>
-      <th> Weeks </th>
-      <th> Status </th>
+      <th>Language</th>
+      <th>Div.</th>
+      <th>Classes</th>
+      <th>Weeks</th>
+      <th>Status</th>
     </tr>
   </thead>
   <tbody>
+    <!-- Python -->
     <tr>
-      <td align="center" rowspan="4" > Python </td>
-      <td align="center"> Python_Basics </td>
-      <td align="center" > 20 </td>
-      <td align="center" > In Progress </td>
+      <td align="center" rowspan="7">Python</td>
+      <td align="center" rowspan="3">Fundamentals</td>
+      <td align="center">Python_Basics</td>
+      <td align="center">20</td>
+      <td align="center">Completed</td>
+    </tr>
+     <tr>
+      <td align="center">Python_Intermediate</td>
+      <td align="center">20</td>
+      <td align="center">In Progress</td>
     </tr>
     <tr>
-      <td align="center"> Python_Intermediate </td>
-      <td align="center" > 20 </td>
-      <td align="center" > In Progress </td>
+      <td align="center">Python_Advanced</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
     </tr>
     <tr>
-      <td align="center"> Python_Advanced </td>
-      <td align="center" > 20 </td>
-      <td align="center" > In Progress </td>
+      <td align="center" rowspan="3">Data Analytics</td>
+      <td align="center">Python_Data_Analytics_Basics</td>
+      <td align="center">20</td>
+      <td align="center">In Progress</td>
+    </tr>
+     <tr>
+      <td align="center">Python_Data_Analytics_Intermediate</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
+    </tr>
+     <tr>
+      <td align="center">Python_Data_Analytics_Advanced</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
     </tr>
     <tr>
-      <td align="center"> Python_Projects </td>
-      <td align="center" > TBD </td>
-      <td align="center" > In Progress </td>
+      <td align="center" rowspan="1">Certification</td>
+      <td align="center">Python_CosPro_Level3</td>
+      <td align="center">20</td>
+      <td align="center">In Progress</td>
+    </tr>
+    <!-- C++ -->
+    <tr>
+      <td align="center" rowspan="3">C++</td>
+      <td align="center" rowspan="3">Fundamentals</td>
+      <td align="center">C++_Basics</td>
+      <td align="center">20</td>
+      <td align="center">In Progress</td>
     </tr>
     <tr>
-      <td align="center" rowspan="2" > C++ </td>
-      <td align="center"> C++_Basics </td>
-      <td align="center" > TBD </td>
-      <td align="center" > In Progress </td>
+      <td align="center">C++_Intermediate</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
+    </tr>
+    <tr>
+      <td align="center">C++_Advanced</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
+    </tr>
+    <!-- CS -->
+    <tr>
+      <td align="center" rowspan="1">CS</td>
+      <td align="center" rowspan="1">Fundamentals</td>
+      <td align="center">Computer_Science(CS)_Advanced</td>
+      <td align="center">20</td>
+      <td align="center">In Progress</td>
     </tr>
   </tbody>
 </table>
-
-
 
 </div>
 
@@ -79,7 +117,7 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
 - Coding Instructor Freelancer (2022.04 - Present)
   - Taught 80+ classes(including 1:1 coding lessons) in total and over 100+ elementary, middle, high school, and university students
   - Also tutored remote coding classes in English for university students in the UK and Singapore
-  - Taught <b> Python, C, C++, C#, Scratch, Roblox Game Creator, and IT Fundamental Skills </b>
+  - Taught <b> Python(Fundamentals, Data Analytics in Python, CosPro Level 3, Projects), C, C++(Fundamentals), CS(Computer Science), C#, Scratch, Roblox Game Creator, and IT Fundamental Skills </b>
   - Wrote class handouts, quizzes and assignments written in English, supplementary exercises, and a syllabus for every class (class materials are in private folder)
   - Managed students by maintaining regular communication with students and their parents to provide updates and discuss concerns
   - Managed individualized Google Classroom sessions tailored to students’ skill levels
@@ -135,6 +173,7 @@ I continue to participate in online competitive programming contests and hone my
 
 ## 🏃🏻Tests & Certifications
 - Coding
+  - COS Pro Python Level 1 Certification (Highest Level) (2026. 05. 16) (YBM) (26_P1_1308409) (972/1000)
   - Python for Everybody Specialization (2020. 01) (Coursera) (UCC9C4QWRBZZ) ([▶️](https://www.coursera.org/account/accomplishments/specialization/UCC9C4QWRBZZ))
 
 - OA Certificates
