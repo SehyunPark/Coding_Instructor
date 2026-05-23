@@ -101,7 +101,7 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
     <tr>
       <td align="center" rowspan="1">CS</td>
       <td align="center" rowspan="1">Fundamentals</td>
-      <td align="center">Computer_Science(CS)_Advanced</td>
+      <td align="center">Computer_Science(CS)_Basics</td>
       <td align="center">20</td>
       <td align="center">In Progress</td>
     </tr>
