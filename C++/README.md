@@ -14,6 +14,7 @@
 | Course Name | Objectives | 
 | :--------: | :-----------: |
 | C++ Advanced | •  <br> •  |
+| C++ Intermediate | •  <br> •  |
 | C++ Basics | •  <br> •  <br> •  |
 
 </div>
