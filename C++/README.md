@@ -28,9 +28,9 @@
 
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| C++ Advanced | • |  | ⭐⭐⭐ |
-| C++ Intermediate | • |  | ⭐⭐⭐ |
-| C++ Basics | • C++ Introduction (Week 1) <br> •  <br> •  |  | ⭐⭐ |
+| C++ Advanced | • | 20 | ⭐⭐⭐ |
+| C++ Intermediate | • | 20 | ⭐⭐⭐ |
+| C++ Basics | • C++ Introduction (Week 1) <br> •  <br> •  | 20 | ⭐⭐ |
 </div>
 
 </i>
