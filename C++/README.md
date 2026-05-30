@@ -30,7 +30,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | C++ Advanced | • | 20 | ⭐⭐⭐ |
 | C++ Intermediate | • | 20 | ⭐⭐⭐ |
-| C++ Basics | • C++ Introduction (Week 1) <br> •  <br> •  | 20 | ⭐⭐ |
+| C++ Basics | • C++ Introduction (Week 1) <br> • Fundamentals (Week 2) <br> •  | 20 | ⭐⭐ |
 </div>
 
 </i>
@@ -50,7 +50,7 @@
 
 | No. | Topic | What You will Learn | Difficulty | Quiz Attached |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Wk1 | C++ Introduction | Introduction <br> C++ Development Process <br>  <br>  <br>  | ⭐⭐ | ✅ |
+| Wk1 | C++ Introduction | Introduction <br> C++ Development Process <br> C++ Characteristics <br> Procedural Programming vs. OOP | ⭐ | ✅ |
 </div>
 
 </details>
