@@ -59,10 +59,10 @@
         <td align="center">20</td>
         <td align="center">In Progress</td>
         <td>
-          Covers the complete data analytics workflow,
-          including data collection, cleaning, transformation,
-          visualization, statistical analysis, SQL,
-          and project-based learning using real-world datasets.
+           A comprehensive introduction to data analytics with Python,
+            covering NumPy, Pandas, data wrangling, visualization,
+            statistics, SQL, database integration, web crawling,
+            and real-world analytics projects.
       </td>
       </tr>
       <tr>
