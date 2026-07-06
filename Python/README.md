@@ -97,7 +97,7 @@
 
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| Python Data Analytics Basics | • Intro / Core Python Concepts <br> • DS / Functional Programming <br> • Numpy(Easy) <br> | TBD | ⭐⭐⭐ |
+| Python Data Analytics Basics | • Intro / Core Python Concepts <br> • DS / Functional Programming <br> • Numpy(Easy) <br> • Pandas(Easy) <br> • CSV, Excel, JSON <br> • Having Fun With DataFrames! <br> • Data Cleaning(Easy) | TBD | ⭐⭐⭐ |
 | Python Basics | • Python Fundamentals (3 Weeks) <br> • If <br> • For + List <br> • While + Dictionary + Tuple <br> • Function <br> • 100 Exercises I (3 weeks) <br> • Try-Except Block & Top Errors <br> • Regular Expressions(Easy) <br> • Data Types II <br> • 2D Array(Easy) <br> • File I/O <br> • 100 Exercises II (3 weeks) <br> • Final Test (2 Weeks)| 20 | ⭐⭐⭐ |
 | Python Advanced | • Python OOP <br> | TBD | ⭐⭐ |
 | Python Intermediate | • Dictionary (2 Weeks) <br> • While (2 Weeks) <br> • Create Your Function <br> • Advanced For Loop <br> • Tkinter(Easy) (3 Weeks) <br> • 50 Exercises III (2 Weeks) | TBD | ⭐⭐ |
