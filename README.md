@@ -97,13 +97,41 @@ For over 3+ years, I've been running a Tech Blog where I've documented various c
       <td align="center">20</td>
       <td align="center">Planned</td>
     </tr>
+     <!-- Java -->
+    <tr>
+      <td align="center" rowspan="3">Java</td>
+      <td align="center" rowspan="3">Fundamentals</td>
+      <td align="center">Java_Basics</td>
+      <td align="center">20</td>
+      <td align="center">In Progress</td>
+    </tr>
+    <tr>
+      <td align="center">Java_Intermediate</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
+    </tr>
+    <tr>
+      <td align="center">Java_Advanced</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
+    </tr>
     <!-- CS -->
     <tr>
-      <td align="center" rowspan="1">CS</td>
-      <td align="center" rowspan="1">Fundamentals</td>
+      <td align="center" rowspan="3">CS</td>
+      <td align="center" rowspan="3">Fundamentals</td>
       <td align="center">Computer_Science(CS)_Basics</td>
       <td align="center">20</td>
       <td align="center">In Progress</td>
+    </tr>
+    <tr>
+      <td align="center">C++_Intermediate</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
+    </tr>
+    <tr>
+      <td align="center">C++_Advanced</td>
+      <td align="center">20</td>
+      <td align="center">Planned</td>
     </tr>
   </tbody>
 </table>
