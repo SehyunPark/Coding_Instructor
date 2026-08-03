@@ -1,8 +1,6 @@
 <i>
 
 # Intro
-• Referenced [Learn Cpp](https://www.learncpp.com/)<br>
-<br>
 • Personally created class materials, quizzes, some exercises, test questions and some assignments tailored to the students' level <br>
 <br>
 • Arranged coding contest problems from abroad according to each lesson's topic and made slight modifications <br>
@@ -30,7 +28,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | C++ Advanced | • | 20 | ⭐⭐⭐ |
 | C++ Intermediate | • | 20 | ⭐⭐⭐ |
-| C++ Basics | • C++ Introduction (Week 1) <br> • Fundamentals (Week 2) <br> •  | 20 | ⭐⭐ |
+| C++ Basics | • C++ Introduction (Week 1) <br> • C++ Fundamentals (Week 2) <br> •  | 20 | ⭐⭐ |
 </div>
 
 </i>
