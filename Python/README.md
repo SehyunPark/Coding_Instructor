@@ -97,10 +97,10 @@
 
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| Python Data Analytics Basics | • Intro / Core Python Concepts <br> • DS / Functional Programming <br> • Numpy(Easy) <br> • Pandas(Easy) <br> • CSV, Excel, JSON <br> • Having Fun With DataFrames! <br> • Data Cleaning(Easy) | TBD | ⭐⭐⭐ |
 | Python Basics | • Input/Output/Variable <br> • String <br> • Math <br> • Python Data (2 Weeks) <br> • If <br> • List <br> • Python Basics Mid-Term(A,B) <br> • For Loop (2 Weeks) <br> • Input() <br> • Python Basics 50 Exercises I (2 weeks) <br> • Functions(Hard) <br> • If(Hard) <br> • Tuple <br> • Set <br> • Python Basics 50 Exercises II (2 weeks) <br> • Python Basics Final-Term(A,B) | 20 | ⭐ |
 | Python Intermediate | • Dictionary (2 Weeks) <br> • While (2 Weeks) <br> • Create Your Function <br> • Advanced For Loop <br> • 2D Array(Easy) <br> • Try-Except Block / Top Errors <br> • Tkinter(Easy) (3 Weeks) <br> • 50 Exercises III (2 Weeks) | TBD | ⭐⭐ |
 | Python Advanced | • Python OOP <br> | TBD | ⭐⭐ |
+| Python Data Analytics Basics | • Intro / Core Python Concepts <br> • DS / Functional Programming <br> • Numpy(Easy) <br> • Pandas(Easy) <br> • CSV, Excel, JSON <br> • Having Fun With DataFrames! <br> • Data Cleaning(Easy) | TBD | ⭐⭐⭐ |
 </div>
 
 </i>
@@ -123,17 +123,17 @@
 | Wk5 | Python Data 2/2 | inequalities / bool data type <br> operations practice | ⭐⭐ | ✅ | ✅ <br> 9 Coding Problems <br> (4 Advanced) |
 | Wk6 | If | if-else / if-elif-else | ⭐⭐ | ✅ | ✅ <br> 6 Coding Problems <br> (2 Advanced) |
 | Wk7 | List | list naming & indexing / slicing <br> append(), extend() | ⭐⭐ | ✅ | ✅ <br> 7 Coding Problems <br> (2 Advanced) |
-| Wk8 | Review I + Test I(A,B) | Review I <br> Test I A: Multiple-Choice & Short-Answer Questions <br> Test I B: Practice Coding Questions  | ⭐⭐ | Tests | x |
+| Wk8 | Python Basics MidTerm(A,B) | Test I A: Multiple-Choice & Short-Answer Questions <br> Test I B: Practice Coding Questions  | ⭐⭐ | Tests | x |
 | Wk9 | For 1/2 | string for loop / index() function <br> practicing for loops in strings | ⭐⭐⭐ | x | ✅ <br> 5 Coding Problems <br> (3 Advanced) |
 | Wk10 | For 2/2 | list for loop / for loop exercises including coding contest problems | ⭐⭐⭐ | ✅ | ✅ <br> 6 Coding Problems <br> (4 Advanced & 1 Champion) |
 | Wk11 | Input() | input() function + types of input() / library using randint() function / exercises including coding contest champion problems | ⭐⭐⭐ | ✅ |
-| Wk12~13 | 50 Exercises I | Coding Exercises | ⭐⭐⭐ | 50 exercises | x |
+| Wk12~13 | Python Basics 50 Exercises I | Coding Exercises | ⭐⭐⭐ | 50 exercises | x |
 | Wk14 | Functions(Hard) | upper(), lower(), isupper(), islower(), isalpha(), isdigit(), find(), rfind() <br> list insert(), remove(), del | ⭐⭐⭐⭐ | ✅ | 
 | Wk15 | If(Hard) | nested-if <br> and,or | ⭐⭐⭐⭐ | ✅ | 
 | Wk16 | Tuple | intro<br>indexing / slicing / 'double' indexing&slicing<br> tuple +, * | ⭐⭐ | ✅ |
 | Wk17 | Set | 2 attributes of set() <br> add(), update(), remove() <br> intersection(), union(), difference() | ⭐⭐⭐⭐ | ✅ |
-| Wk18~19 | 50 Exercises II | Coding Exercises | ⭐⭐⭐⭐ | 50 exercises | x |
-| Wk20 | Review II + Test II(A,B) | Review II <br> Test II A: Multiple-Choice & Short-Answer Questions <br> Test II B: Practice Coding Questions  | ⭐⭐⭐⭐ | Tests | x |
+| Wk18~19 | Python Basics 50 Exercises II | Coding Exercises | ⭐⭐⭐⭐ | 50 exercises | x |
+| Wk20 | Python Basics FinalTerm(A,B) | Test II A: Multiple-Choice & Short-Answer Questions <br> Test II B: Practice Coding Questions  | ⭐⭐⭐⭐ | Tests | x |
 </div>
 </details>
 
@@ -154,7 +154,7 @@
 | Wk23 | While 1/2 | while loop intro <br> break keyword <br> various exercises | ⭐⭐⭐ | ✅ | |
 | Wk24 | While 2/2 | continue keyword <br> various while loop exercises | ⭐⭐⭐ | ✅ | |
 | Wk25 | Create Your Function | def / return keyword <br> more than 1 inputs / outputs | ⭐⭐⭐ | ✅ | |
-| Wk26 | Advanced For loop | for-enumerate loop <br> for-zip loop <br> nested for loop(two, three level) | ⭐⭐⭐ | |
+| Wk26 | Advanced For loop | for-enumerate loop <br> for-zip loop <br> nested for loop(two, three level) | ⭐⭐⭐ | ✅ | |
 | Wk27 | 2D Array(Easy) | | ⭐⭐⭐⭐ | |
 | Wk28 | Try-Except Block / Top Errors | | ⭐⭐⭐⭐ | |
 | Wk29 | File I/O(Easy) | | ⭐⭐⭐⭐⭐ | |
