@@ -56,7 +56,7 @@
 
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| Data Science with R Basics | • Introduction to Data Science and R <br> • Basic Operations, Data Types, and Vectors <br> • Vector Operations, Lists, and Factors <br> • Matrices <br> • Data Frames <br> • Data Structure Conversion / Extraction <br> • File I/O <br> • Conditional Statements & Loops <br> • User-Defined Functions & Data Search <br> • Data Science with R Basics MidTerm(A,B) <br> • Data Types & Descriptive Statistics <br> • Categorical Data & Bar Charts <br> • Continuous Data & Histograms <br> • Box Plots & Outlier Detection <br> • Multivariate Data Visualization <br> • Data Preprocessing <br> • Sorting, Selecting, and Sampling <br> • Data Visualization with ggplot2 <br> • Data Science with R Basics FinalTerm(A,B) | 20 | ⭐ |
+| Data Science with R Basics | • Introduction to Data Science and R <br> • Basic Operations, Data Types, and Vectors <br> • Vector Operations, Lists, and Factors <br> • Matrices <br> • Data Frames <br> • Data Structure Conversion / Extraction <br> • File I/O <br> • Conditional Statements & Loops <br> • User-Defined Functions & Data Search <br> • <b> Data Science with R Basics MidTerm(A,B) </b> <br> • Data Types & Descriptive Statistics <br> • Categorical Data & Bar Charts <br> • Continuous Data & Histograms <br> • Box Plots & Outlier Detection <br> • Multivariate Data Visualization <br> • Data Preprocessing <br> • Sorting, Selecting, and Sampling <br> • Data Visualization with ggplot2 <br> • <b> Data Science with R Basics FinalTerm(A,B) </b> <br> • <b> Data Science with R Basics Final Data Project </b> | 20 | ⭐ |
 </div>
 
 </i>
