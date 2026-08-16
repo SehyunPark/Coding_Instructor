@@ -98,9 +98,9 @@
 | Course Name | Contents | Weeks | Difficulty |
 | :--------: | :-----------: | :-----------: | :-----------: |
 | Python Basics | • Input/Output/Variable <br> • String <br> • Math <br> • Python Data (2 Weeks) <br> • If <br> • List <br> • Python Basics Mid-Term(A,B) <br> • For Loop (2 Weeks) <br> • Input() <br> • Python Basics 50 Exercises I (2 weeks) <br> • Functions(Hard) <br> • If(Hard) <br> • Tuple <br> • Set <br> • Python Basics 50 Exercises II (2 weeks) <br> • Python Basics Final-Term(A,B) | 20 | ⭐ |
-| Python Intermediate | • Dictionary (2 Weeks) <br> • While (2 Weeks) <br> • Create Your Function <br> • Advanced For Loop <br> • 2D Array(Easy) <br> • Try-Except Block / Top Errors <br> • Tkinter(Easy) (3 Weeks) <br> • 50 Exercises III (2 Weeks) | TBD | ⭐⭐ |
-| Python Advanced | • Python OOP <br> | TBD | ⭐⭐ |
-| Python Data Analytics Basics | • Intro / Core Python Concepts <br> • DS / Functional Programming <br> • Numpy(Easy) <br> • Pandas(Easy) <br> • CSV, Excel, JSON <br> • Having Fun With DataFrames! <br> • Data Cleaning(Easy) | TBD | ⭐⭐⭐ |
+| Python Intermediate | • Dictionary (2 Weeks) <br> • While (2 Weeks) <br> • Create Your Function <br> • Advanced For Loop <br> • 2D Array(Easy) <br> • Try-Except Block / Top Errors <br> • Tkinter(Easy) (3 Weeks) <br> • 50 Exercises III (2 Weeks) | 20 | ⭐⭐ |
+| Python Advanced | • Python OOP <br> | 20 | ⭐⭐ |
+| Python Data Analytics Basics | • Intro / Core Python Concepts <br> • DS / Functional Programming <br> • Numpy(Easy) <br> • Pandas(Easy) <br> • CSV, Excel, JSON <br> • Having Fun With DataFrames! <br> • Data Cleaning(Easy) <br> • GroupBy / Aggregation <br> • Merge / Join / Pivot <br> • Python DA Basics Mid-Term(A,B) <br> • Visualization with EDA(Easy) <br> • Descriptive Statistics(Easy) <br> • Time-Series Analysis with Pandas(Easy) <br> • SQL(Easy) <br> • Python DB Integration <br> • Web Crawling(Easy) <br> • Python DA Basics Final-Term(A,B) <br> • (DEMO) Public DA Example Project <br> • Python DA Basics Final Project (2 Weeks) | 20 | ⭐⭐⭐ |
 </div>
 
 </i>
