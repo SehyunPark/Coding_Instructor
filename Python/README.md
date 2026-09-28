@@ -180,26 +180,27 @@
 
 | No. | Topic | What You will Learn | Difficulty | Quiz Attached | Assignment Attached |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Wk41 | OOP (Hard) | | | | |
-| Wk42 | Python Objects & Data Model | | | |
-| Wk43 | Comprehensions, Iterators & Generators | | | |
-| Wk44 | Functional Programming, Closures & Decorators | | | |
-| Wk45 | Exception Handling & Context Messages | | | |
-| Wk46 | Type Hints & Advanced Python Syntax | | | |
-| Wk47 | Tkinter(Easy) | | | |
-| Wk48 | Regular Expression | | | |
-| Wk49 | Python Advanced 50 Exercises V | | | |
-| Wk50 | Python Advanced MidTerm(A,B) | Test A / B  | ⭐⭐⭐⭐ | Tests | x |
-| Wk51 | Testing, Debugging & Logging | | | |
-| Wk52 | Code Reading(Medium) | | | |
-| Wk53 | File Processing & Standard Library Toolkit | | | |
-| Wk54 | HTTP, APIs & Network Programming (Easy) | | | |
-| Wk55 | Database Programming with SQLite (Easy) | | | |
-| Wk56 | Concurrency - Threads & Processes | | | |
-| Wk57 | Asynchronous Programming | | | |
-| Wk58 | Python Internals & Metaprogramming (Easy) | | | |
-| Wk59 | Python Advanced 50 Exercises VI | | | |
-| Wk60 | Python Advanced FinalTerm(A,B) | Test A / B  | ⭐⭐⭐⭐ | Tests | x |
+| Wk41 | OOP (Hard) | inheritance / method overriding / super() <br> composition / polymorphism / encapsulation conventions <br> property / classmethod / staticmethod <br> abstract classes / designing classes with clear responsibilities | ⭐⭐⭐⭐⭐ | Planned | 6 Coding Problems (Planned) |
+| Wk42 | Python Objects & Data Model | object identity, equality and references / is vs. == <br> mutable and immutable objects / shallow and deep copies <br> hashability / dictionary keys / sets <br> special methods: __str__, __repr__, __len__, __getitem__, __eq__, __hash__, __call__ <br> operator overloading / dataclasses / Enum | ⭐⭐⭐⭐⭐ | Planned | 6 Coding Problems (Planned) |
+| Wk43 | Comprehensions, Iterators & Generators | list, dictionary and set comprehensions / nested comprehensions <br> iterable vs. iterator / iter(), next(), StopIteration <br> __iter__() / __next__() <br> generator expressions / yield / yield from <br> lazy evaluation / practical itertools usage | ⭐⭐⭐⭐⭐ | Planned | 7 Coding Problems (Planned) |
+| Wk44 | Functional Programming, Closures & Decorators | functions as objects / higher-order functions / map() and filter() <br> nested functions / closures / nonlocal / late-binding pitfalls <br> creating decorators / decorators with arguments / stacking decorators <br> functools.wraps / partial / cache and lru_cache | ⭐⭐⭐⭐⭐ | Planned | 6 Coding Problems (Planned) |
+| Wk45 | Exception Handling & Context Managers | exception hierarchy / custom exceptions <br> raise / exception chaining / exception propagation <br> resource cleanup / context-manager protocols <br> __enter__() / __exit__() <br> creating context managers with contextlib.contextmanager | ⭐⭐⭐⭐⭐ | Planned | 5 Coding Problems (Planned) |
+| Wk46 | Type Hints & Advanced Python Syntax | collection types / union types / type aliases / Callable <br> generics and type parameters / introductory Protocol and TypedDict <br> static type checking vs. runtime validation <br> match-case / structural pattern matching / guards <br> assignment expressions(:=) / bitwise operators | ⭐⭐⭐⭐⭐ | Planned | 6 Coding Problems (Planned) |
+| Wk47 | Tkinter(Easy) | creating windows / Label, Button, Entry, Frame and ttk widgets <br> pack() and grid() layouts <br> callbacks / event binding / reading and validating user input <br> mainloop() / after() / dialogs <br> building a simple GUI application | ⭐⭐⭐ | Planned | 1 GUI Mini Project (Planned) |
+| Wk48 | Regular Expression | raw strings / character classes / anchors / quantifiers <br> re.search(), re.match(), re.fullmatch(), re.findall() <br> capturing groups / named groups / alternation <br> re.sub() / re.split() / flags / compiled patterns <br> greedy vs. non-greedy matching / introductory lookarounds | ⭐⭐⭐⭐ | Planned | 7 Coding Problems (Planned) |
+| Wk49 | Python Advanced 50 Exercises V | 50 coding exercises covering advanced OOP and Python objects <br> comprehensions / iterators / generators / decorators <br> exception handling / context managers / type hints <br> Tkinter / regular expressions / integrated problem solving | ⭐⭐⭐⭐⭐ | 50 Exercises (Planned) | x |
+| Wk50 | Python Advanced MidTerm(A,B) | Test A: Multiple-Choice, Short-Answer & Code Reading Questions <br> Test B: Practical Coding & Debugging Questions | ⭐⭐⭐⭐ | Tests | x |
+| Wk51 | Testing, Debugging & Logging | unit testing with unittest / introduction to pytest <br> test cases / setup and cleanup / edge cases / exception tests <br> introductory mocking / regression tests <br> breakpoints / inspecting program state / reproducing bugs <br> logging levels / formatters / handlers / recording exceptions | ⭐⭐⭐⭐ | Planned | 1 Test Suite + 3 Debugging Tasks (Planned) |
+| Wk52 | Code Reading(Medium) | reading longer, multi-file programs with classes and functions <br> tracing object state, callbacks and data flow <br> understanding unfamiliar code using documentation <br> reproducing bugs / adding regression tests / refactoring <br> identifying performance bottlenecks with timeit and cProfile | ⭐⭐⭐⭐⭐ | Planned | 3 Code Analysis, Debugging & Refactoring Tasks (Planned) |
+| Wk53 | File Processing & Standard Library Toolkit | pathlib / os / shutil / file and directory operations <br> CSV and JSON processing / Unicode and encodings / bytes and binary files <br> datetime / time / math / statistics <br> floating-point limitations / decimal / fractions <br> Counter / defaultdict / heapq / bisect <br> command-line arguments with argparse | ⭐⭐⭐⭐ | Planned | 1 File Processing & Automation Project (Planned) |
+| Wk54 | HTTP, APIs & Network Programming (Easy) | client-server model / HTTP requests and responses <br> URLs / query parameters / headers / status codes <br> calling APIs / processing JSON responses <br> authentication basics / environment variables / protecting API keys <br> timeouts / network errors / basic retries <br> introduction to sockets | ⭐⭐⭐⭐ | Planned | 1 API-connected Mini Project (Planned) |
+| Wk55 | Database Programming with SQLite (Easy) | tables / records / primary and foreign keys <br> connecting Python to SQLite / creating tables <br> SELECT / INSERT / UPDATE / DELETE <br> filtering / sorting / introductory joins <br> parameterized queries / transactions / commit and rollback <br> connecting a database to a Python application | ⭐⭐⭐⭐ | Planned | 1 Database-backed Mini Project (Planned) |
+| Wk56 | Concurrency - Threads & Processes | concurrency vs. parallelism / CPU-bound vs. I/O-bound work <br> threading / multiprocessing / concurrent.futures <br> executors / futures / collecting results <br> shared state / race conditions / locks / thread-safe queues <br> process communication / serialization / GIL overview | ⭐⭐⭐⭐⭐ | Planned | 4 Coding Problems + Performance Comparison (Planned) |
+| Wk57 | Asynchronous Programming | coroutines / async / await / event loops <br> creating and scheduling tasks with asyncio <br> gather() / TaskGroup / timeouts / cancellation <br> handling exceptions / introductory exception groups and except* <br> async for / async with / avoiding blocking operations | ⭐⭐⭐⭐⭐ | Planned | 4 Coding Problems + 1 Async Mini Project (Planned) |
+| Wk58 | Python Internals & Metaprogramming (Easy) | introspection with type(), dir(), vars(), getattr() and inspect <br> attribute lookup / introduction to descriptors <br> multiple inheritance / method resolution order(MRO) <br> class creation / introductory metaclasses / __new__() and __slots__ <br> references / garbage collection / memory management basics <br> overview of source code, AST and bytecode | ⭐⭐⭐⭐ | Planned | 5 Guided Code Reading & Experiment Tasks (Planned) |
+| Wk59 | Python Advanced 50 Exercises VI | 50 coding exercises covering testing, debugging and code analysis <br> file processing / standard libraries / APIs / SQLite <br> threads / processes / asynchronous programming <br> object behavior / introspection / integrated application problems | ⭐⭐⭐⭐⭐ | 50 Exercises (Planned) | x |
+| Wk60 | Python Advanced FinalTerm(A,B) | Test A: Multiple-Choice, Short-Answer & Advanced Code Reading Questions <br> Test B: Practical Coding, Debugging & Feature Extension Questions <br> comprehensive assessment of Python Advanced concepts | ⭐⭐⭐⭐ | Tests | x |
+
 <br>
 
 </details>
